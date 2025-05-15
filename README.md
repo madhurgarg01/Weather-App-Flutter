@@ -61,6 +61,9 @@ A Flutter-based Weather App that provides real-time weather updates, forecasts, 
 * Swipe to view the 7-day forecast.
 * Tap on forecast cards for detailed information.
 
+## 🖼️ Screenshots
+
+(Include relevant screenshots of the app here)
 
 ---
 
@@ -101,6 +104,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For any queries, reach out to me at [your.email@example.com](mailto:madhurgarg052@gmail.com).
+For any queries, reach out to me at [madhurgarg052@gmail.com](mailto:madhurgarg052@gmail.com).
 
 Happy Coding! 🚀
